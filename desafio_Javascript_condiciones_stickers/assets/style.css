@@ -1,0 +1,21 @@
+
+
+
+.div {
+    display: flex;
+    
+}
+#flex-container {
+    text-align: center;
+}
+#btn {
+    margin-top: 20%;
+}
+
+.container img{
+
+    height: 150px;
+    width: 150px;
+  
+}
+
